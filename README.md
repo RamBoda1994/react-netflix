@@ -1,3 +1,8 @@
+![](https://github.com/RamBoda1994/react-netflix/blob/master/netflix.gif)
+
+
+The application is live and running. Please visit https://netflix-clone-ramboda.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
